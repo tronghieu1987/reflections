@@ -5,3 +5,6 @@
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 	- Staging area is the bridge between the working directory and the repository;
 	- It allows us to add files one by one after we are certain about that specific one before making a commit to multiple files.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+	- I will just add the file to the stage once a logical change is made in the working directory
