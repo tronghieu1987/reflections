@@ -8,3 +8,7 @@
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 	- I will just add the file to the stage once a logical change is made in the working directory
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- When I need to experiment changes to the code but not want to change the code base
+	- Git branches feature just does the job
