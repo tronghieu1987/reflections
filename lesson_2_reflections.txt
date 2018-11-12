@@ -19,3 +19,7 @@
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	- The combined branch can reach all the commit and hopefully has all the changes from the two branches
 	- Representing in the digram helps us to view the parent of each commit so that seeing the changes for each one is easier
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	- Pros: faster, working most of the time, avoid mistake
+	- Cons: it gets confusing in even simple change that could easily make sense to human
