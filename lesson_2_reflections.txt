@@ -15,3 +15,7 @@
 
 5. How do the diagrams help you visualize the branch structure?
 	- I can see where branches are created as well as know how changes against commits in the past get routed to different branches (instead of being attached to any existing branches)
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	- The combined branch can reach all the commit and hopefully has all the changes from the two branches
+	- Representing in the digram helps us to view the parent of each commit so that seeing the changes for each one is easier
