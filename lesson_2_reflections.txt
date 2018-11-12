@@ -12,3 +12,6 @@
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	- When I need to experiment changes to the code but not want to change the code base
 	- Git branches feature just does the job
+
+5. How do the diagrams help you visualize the branch structure?
+	- I can see where branches are created as well as know how changes against commits in the past get routed to different branches (instead of being attached to any existing branches)
