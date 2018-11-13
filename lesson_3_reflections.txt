@@ -9,3 +9,6 @@
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	- Difference in location: Forks work between remote repositories (on GitHub); Clones work between locals and local vs online; Branches are within each repository and are the objects that you fork/pull/push
 	- 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+	- So that I can check and compare with it offline
